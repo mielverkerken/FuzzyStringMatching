@@ -1,0 +1,10 @@
+@startuml example_transformation
+(*) --> "The Shawshank Redemption"
+--> [lowercase] "the shawshank redemption"
+--> [tokenize] "[the, shawshank, redemption]"
+--> [remove stopwords] "[shawshank, redemption]"
+--> [ngram] "[sh, ha, aw, .. ti, io, on]"
+--> [vectorize] "(262144, [5535, ..], [1, ..])"
+--> [MinHashLSH] "[ [5.5487483e7], [..], [..] ]"
+--> (*)
+@enduml

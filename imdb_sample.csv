@@ -1,0 +1,101 @@
+id;Title;Tags;ImdbScore;Evaluator;Seen;Score
+1;The Shawshank Redemption;Crime,Drama;9.2;User;0;0
+2;The Godfather;Crime,Drama;9.2;User;0;0
+3;The Godfather: Part II;Crime,Drama;9;User;0;0
+4;Pulp Fiction;Crime,Drama,Thriller;8.9;User;0;0
+5;Schindler's List;Biography,Drama,History;8.9;User;0;0
+6;The Lord of the Rings: The Return of the King;Adventure,Fantasy;8.9;User;1;6.5
+7;The Good, the Bad and the Ugly;Western;8.9;User;0;0
+8;12 Angry Men;Drama;8.9;User;0;0
+9;The Dark Knight;Action,Crime,Drama;8.9;User;1;7
+10;Fight Club;Drama;8.9;User;0;0
+11;The Lord of the Rings: Fellowship of the Ring;Adventure,Fantasy;8.8;User;1;6.5
+12;Forrest Gump;Drama,Romance;8.7;User;1;8
+13;Goodfellas;Biography,Crime,Drama;8.7;User;0;0
+14;One Flew Over the Cuckoo's Nnest;Drama;8.7;User;0;0
+15;Star Wars Episode V – The Empire Strikes Back;Action,Adventure,Fantasy;8.7;User;0;0
+16;Inception;Action,Mystery,Sci-Fi;8.7;User;1;8.5
+17;The Lord of the Rings: The two towers;Adventure,Fantasy;8.7;User;1;6.5
+18;The Matrix;Action,Sci-Fi;8.7;User;0;0
+19;Star Wars Episode IV – A New Hope;Action,Adventure,Fantasy;8.7;User;0;0
+20;Seven Samurai;Drama;8.7;User;0;0
+21;Psycho;Horror,Mystery,Thriller;8.6;User;0;0
+22;The Silence of the Lambs;Drama,Thriller;8.6;User;0;0
+23;Casablanca;Drama,Romance,War;8.6;User;0;0
+24;It's a wonderful Life;Drama,Family,Fantasy;8.6;User;0;0
+25;City of God;Crime,Drama;8.6;User;0;0
+26;Interstellar;Adventure,Sci-Fi;8.6;User;1;10
+27;Se7en;Drama,Mystery,Thriller;8.6;User;0;0
+28;The Usual Suspects;Crime,Drama,Thriller;8.6;User;0;0
+29;Once upon a Time in the West;Western;8.6;User;0;0
+30;Leon: The Professional;Crime,Drama,Thriller;8.6;User;0;0
+31;La Vita e bella;Comedy,Drama,Romance;8.6;User;0;0
+32;American History X;Crime,Drama;8.6;User;1;8
+33;City Lights;Comedy,Drama,Romance;8.6;User;0;0
+34;Spirited Away;Animation,Adventure,Family;8.6;User;0;0
+35;Whiplash;Drama,Music;8.6;User;0;0
+36;Rear window;Mystery,Thriller;8.6;User;0;0
+37;The Intouchables;Biography,Comedy,Drama;8.6;User;0;0
+38;Gladiator;Action,Drama;8.5;User;1;8
+39;Saving Private Ryan;Action,Drama,War;8.5;User;0;0
+40;The Green Mile;Crime,Drama,Fantasy;8.5;User;0;0
+41;Raiders of the Lost Ark;Action,Adventure;8.5;User;0;0
+42;Apocalypse Now;Drama,War;8.5;User;0;0
+43;The Pianist;Biography,Drama,War;8.5;User;0;0
+44;Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb;Comedy,War;8.5;User;0;0
+45;Modern Times;Comedy,Drama;8.5;User;0;0
+46;Terminator 2: Judgement Day;Action,Sci-Fi;8.5;User;1;6
+47;Memento;Mystery,Thriller;8.5;User;0;0
+48;The Departed;Crime,Drama,Thriller;8.5;User;0;0
+49;Sunset Blvd;Drama,Film-Noir;8.5;User;0;0
+50;Back to the future;Adventure,Comedy,Sci-Fi;8.5;User;0;0
+51;Alien;Horror,Sci-Fi;8.5;User;0;0
+52;The Prestige;Drama,Mystery,Thriller;8.5;User;0;0
+53;The Great Dictator;Comedy,Drama,War;8.4;User;0;0
+54;The Lion King;Animation,Adventure,Drama;8.4;User;1;7
+55;Das Leben der Anderen;Drama,Thriller;8.4;User;0;0
+56;Cinema Paradisio;Drama;8.4;User;0;0
+57;Django Unchained;Western;8.4;User;1;7
+58;The Shining;Horror;8.4;User;0;0
+59;The Dark Knight;Action,Thriller;8.4;User;1;7
+60;Paths Of Glory;Drama,War;8.4;User;0;0
+61;American Beauty;Drama;8.4;User;0;0
+62;Wall-E;Animation,Adventure,Romance;8.4;User;1;8
+63;North by Northwest;Adventure,Mystery,Thriller;8.4;User;0;0
+64;Aliens;Action,Adventure,Sci-Fi;8.4;User;0;0
+65;Citizen Kane;Drama,Mystery;8.4;User;0;0
+66;Vertigo;Mystery,Romance,Thriller;8.4;User;0;0
+67;Grave of the Fireflies;Animation,Drama,War;8.4;User;0;0
+68;Amelie;Comedy,Romance;8.4;User;0;0
+69;M;Crime,Drama,Thriller;8.4;User;0;0
+70;Das Boot;Adventure,Drama,War;8.4;User;0;0
+71;Old Boy;Drama,Mystery,Thriller;8.4;User;0;0
+72;Princess Monoke;Animation,Adventure,Fantasy;8.4;User;0;0
+73;Toy Story 3;Animation,Adventure,Comedy;8.4;User;1;7.5
+74;Star Wars Episode VI – Return of the Jedi;Action,Adventure,Fantasy;8.4;User;1;6
+75;Once upon a Time in America;Crime,Drama;8.4;User;0;0
+76;Reservoir Dogs;Crime,Drama;8.4;User;0;0
+77;A Clockwork Orange;Crime,Drama,Sci-Fi;8.3;User;0;0
+78;Taxi Driver;Crime,Drama;8.3;User;1;7.5
+79;Braveheart;Action,Biography,Drama;8.3;User;0;0
+80;Double Indemnity;Crime,Drama,Film-Noir;8.3;User;0;0
+81;Requiem for a Dream;Drama;8.3;User;0;0
+82;To Kill a Mockingbird;Drama;8.3;User;0;0
+83;Witness for the Prosecution;Crime,Drama,Mystery;8.3;User;0;0
+84;Lawrence of Arabia;Adventure,Biography,Drama;8.3;User;0;0
+85;Eternal Sunshine of the Spotless Mind;Drama,Romance,Sci-Fi;8.3;User;0;0
+86;Full Metal Jacket;Drama,War;8.3;User;0;0
+87;Singin' in the Rain;Comedy,Musical,Romance;8.3;User;0;0
+88;The Sting;Comedy,Crime,Drama;8.3;User;0;0
+89;Bicycle Thieves;Drama;8.3;User;0;0
+90;Amadeus;Biography,Drama,Music;8.3;User;0;0
+91;Monty Python and the Holy Grail;Adventure,Comedy,Fantasy;8.3;User;0;0
+92;Snatch;Comedy,Crime;8.3;User;0;0
+93;2001: A space Odyssey;Mystery,Sci-Fi;8.3;User;1;8.5
+94;The Kid;Comedy,Drama,Family;8.3;User;0;0
+95;For a Few Dollars More;Western;8.3;User;0;0
+96;Rashomon;Crime,Drama,Mystery;8.3;User;0;0
+97;L.A. Confidential;Crime,Drama,Mystery;8.3;User;0;0
+98;All About Eve;Drama;8.3;User;0;0
+99;The Apartment;Comedy,Drama,Romance;8.3;User;0;0
+100;Inglorious Basterds;Adventure,Drama,War;8.3;User;1;8
